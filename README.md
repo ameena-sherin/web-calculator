@@ -1,4 +1,4 @@
-# 🧮 Calculator Project
+# 🧮 python Calculator Project
 
 ## 📌 Description
 This is a simple calculator project built using Python.  
@@ -21,9 +21,9 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 
 ## 🚀 Project Demo
-This project is live and can be tested here:
+You can try the live calculator here:
 
-🔗 https://c31776d3-9b9d-42d6-b8ea-901c8d2d76c3-00-15akzgyvtbxg8.worf.replit.dev/
+🔗 🔗 [Click to Open Calculator](https://c31776d3-9b9d-42d6-b8ea-901c8d2d76c3-00-15akzgyvtbxg8.worf.replit.dev/)
 
 ## 👩‍💻 Author
 Ameena Sherin
