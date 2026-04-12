@@ -15,8 +15,10 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ## 📸 Screenshot
 
-<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/0390d892-631b-4465-9e28-9217063230c4" />
-<img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/cd847308-5141-4b1d-8b5d-691fa9d40692" />
+<img width="1467" height="1002" alt="Screenshot 2026-04-12 172001" src="https://github.com/user-attachments/assets/452cc20e-61ad-4df8-89ae-5906e57956af" />
+
+<img width="1463" height="900" alt="Screenshot 2026-04-12 172029" src="https://github.com/user-attachments/assets/faa5e29c-e519-4e7c-80c4-0973cf14c6a4" />
+
 
 ## 🚀 Project Demo
 This project is live and can be tested here:
