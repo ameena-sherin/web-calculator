@@ -1,8 +1,8 @@
-# 🧮 Python Calculator Project
+# 🧮 Web Calculator (HTML, CSS, JavaScript)”
 
 ## 📌 Description
-This is a simple calculator project built using Python.  
-It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple web-based calculator built using HTML, CSS, and JavaScript.  
+It performs basic arithmetic operations like addition, subtraction, multiplication, and division with an interactive user interface.
 
 ## 🚀 Features
 - Addition (+)
@@ -11,8 +11,9 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - Division (/)
 
 ## 🛠️ Technologies Used
-- Python
-
+- HTML
+- CSS
+- JavaScript
 ## 📸 Screenshot
 
 <img width="1467" height="1002" alt="Screenshot 2026-04-12 172001" src="https://github.com/user-attachments/assets/452cc20e-61ad-4df8-89ae-5906e57956af" />
